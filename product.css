@@ -1,0 +1,21 @@
+legend{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-weight: 900;
+    font-size: 50px;
+}
+.dog{
+    text-align: center;
+}
+
+.dog :hover{
+    background-color: black;
+}
+.cat{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.cat :hover{
+    background-color: black;
+}s
